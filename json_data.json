@@ -1,0 +1,299 @@
+{
+  "channels": [
+{
+  "name": "News24",
+  "url": "https://tvsen6.aynaott.com/news24/tracks-v1a1/mono.ts.m3u8?e=1779178082&token=11b75a1d8d999367ee3e32f40dba4e5d&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a",
+  "category": "News",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/News24_Bangladesh_logo.svg/512px-News24_Bangladesh_logo.svg.png"
+},  
+{
+  "name": "CC Stream",
+  "url": "https://cc-y2z89muounal4.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y2z89muounal4/1f335879-6186-4a97-acff-a5b097021e08/0.m3u8",
+  "category": "Entertainment",
+  "logoUrl": ""
+},
+{
+  "name": "Discovery Investigation HD",
+  "url": "https://ottbanglaplatform.com/tv/toffee/live.php?cid=discovary_investigation_hd&chunks=89ea7b9663a97fdffef8cbb30fd2808238c2cba3ff930544036b225620c5c139032cd7405524f84376adbc88c9c4ad5db91975aa5a4e84caa2fe8b8662dff6e936ba5f60d18d39722b87887c80dee81f802a41ca3cf549a50e0f0d79e0e08fc11a6e7db47c4633bf5d542b29b3d3ff0e4be65bd0cdc982c770e1c768c56b8ff62cc2b55c941201230263ba5f41c22820",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Investigation_Discovery_logo.svg/512px-Investigation_Discovery_logo.svg.png"
+},
+{
+  "name": "Press TV",
+  "url": "https://live.presstv.ir/hls/presstv_5_482/index.m3u8",
+  "category": "News",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/PressTV_Logo.svg/512px-PressTV_Logo.svg.png"
+},
+
+    {
+      "name": "Nick",
+      "url": "http://103.124.180.30:8086/NICK/index.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540"
+    },
+    {
+      "name": "Somoy TV",
+      "url": "http://103.124.180.30:8086/SOMOY-NEWS/index.m3u8",
+      "category": "News",
+      "logoUrl": "https://i.imgur.com/i54AQic.png"
+    },
+    {
+      "name": "BTV News",
+      "url": "http://103.124.180.30:8086/BTV-NEWS/index.m3u8",
+      "category": "News",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4f/BTV_NEWS_Logo_-_Bangladesh_Television.png"
+    },
+    {
+      "name": "DBC News",
+      "url": "http://103.124.180.30:8086/DBC-NEWS/index.m3u8",
+      "category": "News",
+      "logoUrl": "https://i.imgur.com/Qbt6q4z.png"
+    },
+    {
+      "name": "Independent TV",
+      "url": "http://103.124.180.30:8086/INDPENDENT-TV/index.m3u8",
+      "category": "News",
+      "logoUrl": "https://i.imgur.com/POXFhGN.png"
+    },
+    {
+      "name": "Jamuna TV",
+      "url": "http://103.124.180.30:8086/JAMUNA-TV/index.m3u8",
+      "category": "News",
+      "logoUrl": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png"
+    },
+    {
+      "name": "Ekattor TV",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge3/ekattor-tv/tracks-v1a1/mono.m3u8?token=56611327b9aac78cf42915ad58031162e231c74f-2c4b3f8fa78d3a3ceeeb68715a940801-1773658076-1773654476",
+      "category": "News",
+      "logoUrl": "https://i.imgur.com/zoLwwUK.png"
+    },
+    {
+      "name": "Channel 24",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge2/channel24/tracks-v1a1/mono.m3u8?token=7a9003025bc245087491f5f35631cdc96dc229d8-60fdb29b1acf6c06c4df2fb58dd50d89-1773658342-1773654742",
+      "category": "News",
+      "logoUrl": "https://i.imgur.com/4JLkaF7.png"
+    },
+    {
+      "name": "ATN Bangla",
+      "url": "http://103.124.180.30:8086/ATN-BANGLA/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/K1HmMRz.png"
+    },
+    {
+      "name": "Bangla TV",
+      "url": "http://103.124.180.30:8086/BANGLA-TV/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/DLGjTfI.png"
+    },
+    {
+      "name": "Banglavision",
+      "url": "http://103.124.180.30:8086/BANGLAVISION-TV/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/nCWgp38.png"
+    },
+    {
+      "name": "Boishakhi",
+      "url": "http://103.124.180.30:8086/BOISHAKI-TV/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/gxL05Y4.png"
+    },
+    {
+      "name": "Channel I",
+      "url": "http://103.124.180.30:8086/CHANNEL-I/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/X0JJlOX.png"
+    },
+    {
+      "name": "NTV",
+      "url": "http://103.124.180.30:8086/NTV/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/l75bDTx.png"
+    },
+    {
+      "name": "Maasranga",
+      "url": "http://103.124.180.30:8086/MASRANGA-TV/index.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/uVZJMed.png"
+    },
+    {
+      "name": "Bangla Stream 1",
+      "url": "http://103.124.180.30/api/stream/live.m3u8?id=84",
+      "category": "Bangla",
+      "logoUrl": ""
+    },
+    {
+      "name": "Bijoy TV",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge3/bijoy-tv/tracks-v1a1/mono.m3u8?token=aa751e94ac10a04927009d22afce1c2358bae4bb-42cf3d422aa70c9fffe9ea1a2db70de3-1773657779-1773654179",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/Faetm0C.png"
+    },
+{
+  "name": "Ekhon TV",
+  "url": "https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8?e=1779178085&token=14b05e35ebd133feeb1286b601d6981f&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a",
+  "category": "News",
+  "logoUrl": "https://i.imgur.com/bR4CBM0.png"
+},
+    {
+      "name": "Deepto TV",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge2/deepto_tv/tracks-v1a1/mono.m3u8?token=0afbdf95be1b83a26a1c0533147e65449c4adbf8-e8af71d639802ebbfab23466e5ec339a-1773658019-1773654419",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/F62GUqS.png"
+    },
+    {
+      "name": "Sony Ten 1",
+      "url": "http://103.124.180.30:8086/SONY-TEN-1/index.m3u8",
+      "category": "Sports",
+      "logoUrl": "https://dtil.tmsimg.com/assets/s157591_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "name": "Sony Ten 2",
+      "url": "http://103.124.180.30:8086/SONY-TEN-2/index.m3u8",
+      "category": "Sports",
+      "logoUrl": "https://dtil.tmsimg.com/assets/s157592_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "name": "Sony Ten 3",
+      "url": "http://103.124.180.30:8086/SONY-TEN-3/index.m3u8",
+      "category": "Sports",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540"
+    },
+    {
+      "name": "T Sports",
+      "url": "http://103.124.180.30:8086/T-SPORTS/index.m3u8",
+      "category": "Sports",
+      "logoUrl": "https://i.imgur.com/2JzlorD.png"
+    },
+    {
+      "name": "Star Jalsha",
+      "url": "http://103.124.180.30:8086/STAR-JALSHA/index.m3u8",
+      "category": "Entertainment",
+      "logoUrl": "https://dtil.tmsimg.com/assets/s143819_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "name": "Zee Bangla",
+      "url": "http://103.124.180.30:8086/ZEE-BANGLA/index.m3u8",
+      "category": "Entertainment",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG0022T6DC.png?lock=720x540"
+    },
+    {
+      "name": "Sony Aath",
+      "url": "http://103.124.180.30:8086/SONY-AATH/index.m3u8",
+      "category": "Entertainment",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG002YP08L.png?lock=720x540"
+    },
+    {
+      "name": "TLC HD",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge3/tlc-hd/tracks-v1a1/mono.m3u8?token=a3abacc003064e417acdcaf7c00154bde2a0e9dc-85b72db0bb9db52e251bb3d8ef897034-1773658620-1773655020",
+      "category": "Entertainment",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/960px-TLC_Logo.svg.png"
+    },
+    {
+      "name": "National Geographic",
+      "url": "http://103.124.180.30:8086/NGO-GEROPHY/index.m3u8",
+      "category": "Documentary",
+      "logoUrl": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
+    },
+    {
+      "name": "Animal Planet",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge3/animal-planet-hd/tracks-v1a1/mono.m3u8?token=67f40d0c1d7b64107839ad0fbc8f6174644e1c24-db47affb6296465f1a12c7ee253a605b-1773660221-1773656621",
+      "category": "Documentary",
+      "logoUrl": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png"
+    },
+    {
+      "name": "Discovery HD",
+      "url": "https://edge2.roarzone.info:8447/roarzone/edge3/discovery-hd/tracks-v1a1/mono.m3u8?token=14440bf7bbac194b6192a4feb7e24d519844e6bf-70a6e189162362b481e5916a912847c4-1773660284-1773656684",
+      "category": "Documentary",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540"
+    },
+    {
+      "name": "FIFA Plus English",
+      "url": "https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/74c96445-78eb-45be-8115-42ed94d81602/0.m3u8",
+      "category": "Sports",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/FIFA_Plus_logo.svg"
+    },
+    {
+      "name": "Intelligence",
+      "url": "https://nomawnoijl.gpcdn.net/akash/intelligence/chunks.m3u8",
+      "category": "Entertainment",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Akash_DTH_Logo.svg/512px-Akash_DTH_Logo.svg.png"
+    },
+    {
+      "name": "Akash Crimes",
+      "url": "https://nomawnoijl.gpcdn.net/akash/crimes/chunks.m3u8",
+      "category": "Entertainment",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Akash_DTH_Logo.svg/512px-Akash_DTH_Logo.svg.png"
+    },
+    {
+      "name": "Funny Junior",
+      "url": "https://nomawnoijl.gpcdn.net/akash/funnyjunior/chunks.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Akash_DTH_Logo.svg/512px-Akash_DTH_Logo.svg.png"
+    },
+    {
+      "name": "Buddy Star",
+      "url": "https://nomawnoijl.gpcdn.net/akash/buddystar/chunks.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Akash_DTH_Logo.svg/512px-Akash_DTH_Logo.svg.png"
+    },
+    {
+      "name": "Star News",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=3224800.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Akash_DTH_Logo.svg/512px-Akash_DTH_Logo.svg.png"
+    },
+    {
+      "name": "Al Jazeera English",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/1721-audio_113512_eng=113200-video=2202800.m3u8",
+      "category": "News",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/f/f2/Aljazeera_eng.svg"
+    },
+    {
+      "name": "Nikki",
+      "url": "https://nomawnoijl.gpcdn.net/akash/nikky/chunks.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://dtil.tmsimg.com/assets/GNLZZGG002YJ9BJ.png?lock=720x540"
+    },
+    {
+      "name": "GTV",
+      "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/tracks-v1a1/mono.ts.m3u8?e=1780630636&token=2ceab932f49e37b5187a139db3634fca&u=78be6644-0a65-48ec-81a4-089ac65a2619",
+      "category": "Bangla",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Gazi_Television_Logo.svg/512px-Gazi_Television_Logo.svg.png"
+    },
+    {
+      "name": "SATV",
+      "url": "https://tvsen6.aynaott.com/satv/tracks-v1a1/mono.ts.m3u8?e=1780630636&token=b460ab283f44b0565622afe42931f9e6&u=78be6644-0a65-48ec-81a4-089ac65a2619",
+      "category": "Bangla",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/09/SA_TV_Bangladesh_Logo.svg/512px-SA_TV_Bangladesh_Logo.svg.png"
+    },
+    {
+      "name": "Sangeet Bangla",
+      "url": "https://cdn-4.pishow.tv/live/1143/1143_1.m3u8",
+      "category": "Music",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/63/Sangeet_Bangla_logo.png/512px-Sangeet_Bangla_logo.png"
+    },
+    {
+      "name": "Doraemon TV",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Doraemon_character.png/512px-Doraemon_character.png"
+    },
+    {
+      "name": "Motu Patlu",
+      "url": "https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8",
+      "category": "Kids",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/en/6/66/Motu_Patlu.png"
+    },
+    {
+      "name": "HBO",
+      "url": "https://tvsen5.aynaott.com/hbo/tracks-v1a1/mono.ts.m3u8?e=1780630640&token=1a4d690d21a41d4783e122cf12be9f7f&u=78be6644-0a65-48ec-81a4-089ac65a2619",
+      "category": "Entertainment",
+      "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png"
+    },
+    {
+      "name": "Deepto TV",
+      "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8",
+      "category": "Bangla",
+      "logoUrl": "https://i.imgur.com/F62GUqS.png"
+    }
+  ]
+}
