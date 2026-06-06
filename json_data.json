@@ -7,6 +7,192 @@
   "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0f/News24_Bangladesh_logo.svg/512px-News24_Bangladesh_logo.svg.png"
 },  
     {
+  "name": "BeIN Sports 1",
+  "url": "http://27.124.71.27/beIN_Sports_1/index.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 2",
+  "url": "http://27.124.71.27/beIN_Sports_2/index.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 3",
+  "url": "http://27.124.71.27/beIN_Sports_3/index.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 4",
+  "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 1 Serbia",
+  "url": "http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 2 Serbia",
+  "url": "http://ua.online24.pm/play/1102/350B326FB34F4B8/video.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 2 France",
+  "url": "http://145.239.5.177:80/559/index.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 1 (Alt)",
+  "url": "https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 2 (Alt)",
+  "url": "https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 3 (Alt)",
+  "url": "https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "BeIN Sports 4 (Alt)",
+  "url": "https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "beIN Sports Xtra",
+  "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/BeIN_Sports_logo.svg/512px-BeIN_Sports_logo.svg.png"
+},
+{
+  "name": "ESPN",
+  "url": "https://tvsen5.aynaott.com/espn/index.m3u8",
+  "category": "Sports",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png"
+},
+{
+  "name": "Ayna TV",
+  "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/ayna.stream/tracks-v1a1/mono.m3u8",
+  "category": "Bangla",
+  "logoUrl": ""
+},
+{
+  "name": "Ananda TV",
+  "url": "https://tvsen6.aynaott.com/anandatv/index.m3u8?e=1779283759&u=78be6644-0a65-48ec-81a4-089ac65a2619&token=504b9350b4703116ca4ab20e4013288e",
+  "category": "Bangla",
+  "logoUrl": ""
+},
+{
+  "name": "BTV",
+  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+  "category": "Bangla",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/BTV_logo.svg"
+},
+{
+  "name": "Channel 24",
+  "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8",
+  "category": "News",
+  "logoUrl": "https://i.imgur.com/4JLkaF7.png"
+},
+{
+  "name": "Channel S TV",
+  "url": "https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8",
+  "category": "Bangla",
+  "logoUrl": ""
+},
+{
+  "name": "Discovery Channel",
+  "url": "https://tvsen7.aynaott.com/discovery/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png"
+},
+{
+  "name": "Discovery Science",
+  "url": "https://tvsen7.aynaott.com/discoveryscience/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png"
+},
+{
+  "name": "Animal Planet",
+  "url": "https://tvsen7.aynaott.com/animalplanet/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/AnimalPlanetHD_Transparent_d36c0ee3-3e3f-4e0c-b3b2-23bfb3c3c2b0.png"
+},
+{
+  "name": "National Geographic",
+  "url": "https://tvsen7.aynaott.com/natgeo/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://dtil.tmsimg.com/assets/s143574_ld_h15_aa.png?lock=720x540"
+},
+{
+  "name": "Nat Geo Wild",
+  "url": "https://tvsen7.aynaott.com/natgeowild/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nat_Geo_Wild_logo.svg/512px-Nat_Geo_Wild_logo.svg.png"
+},
+{
+  "name": "History TV18",
+  "url": "https://tvsen7.aynaott.com/historytv18/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_TV18_logo.svg/512px-History_TV18_logo.svg.png"
+},
+{
+  "name": "Sony BBC Earth",
+  "url": "https://tvsen7.aynaott.com/sonybbcearth/index.m3u8",
+  "category": "Documentary",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/Sony_BBC_Earth_logo.svg/512px-Sony_BBC_Earth_logo.svg.png"
+},
+{
+  "name": "Peace TV",
+  "url": "https://tvsen7.aynaott.com/peacetv/index.m3u8",
+  "category": "Religious",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Peace_TV_logo.png"
+},
+{
+  "name": "Peace TV Bangla",
+  "url": "https://tvsen7.aynaott.com/peacetvbangla/index.m3u8",
+  "category": "Religious",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/8/8d/Peace_TV_logo.png"
+},
+{
+  "name": "Madani Channel",
+  "url": "https://tvsen7.aynaott.com/madani/index.m3u8",
+  "category": "Religious",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/5/55/Madani_Channel_logo.png"
+},
+{
+  "name": "Huda TV",
+  "url": "https://tvsen7.aynaott.com/hudatv/index.m3u8",
+  "category": "Religious",
+  "logoUrl": "https://upload.wikimedia.org/wikipedia/en/7/7f/Huda_TV_logo.png"
+},
+{
+  "name": "Quran TV",
+  "url": "https://tvsen7.aynaott.com/qurantv/index.m3u8",
+  "category": "Religious",
+  "logoUrl": ""
+},
+{
+  "name": "Sunnah TV",
+  "url": "https://tvsen7.aynaott.com/sunnahtv/index.m3u8",
+  "category": "Religious",
+  "logoUrl": ""
+},
+    {
   "name": "Disney Junior",
   "url": "https://tvsen7.aynaott.com/disneyjr/tracks-v1a1/mono.ts.m3u8?e=1779178087&token=99cbc265577e2ec5bf149f3e309b7919&u=617d0e90-2bc6-4dc5-8897-f5638f8fd01a",
   "category": "Kids",
