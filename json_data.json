@@ -32,18 +32,8 @@
   "category": "Bangla",
   "logoUrl": ""
 },
-{
-  "name": "Discovery Channel",
-  "url": "https://tvsen7.aynaott.com/discovery/index.m3u8",
-  "category": "Documentary",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png"
-},
-{
-  "name": "Discovery Science",
-  "url": "https://tvsen7.aynaott.com/discoveryscience/index.m3u8",
-  "category": "Documentary",
-  "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Discovery_Channel_logo.svg/512px-Discovery_Channel_logo.svg.png"
-},
+
+
 {
   "name": "Animal Planet",
   "url": "https://tvsen7.aynaott.com/animalplanet/index.m3u8",
